@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-kumar-mahato&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-kumar-mahato" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **SQL Project**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **MERN Stack**
-
-- 🤝 I’m looking for help with **ExpressJs**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Anything i am happy to help**
 

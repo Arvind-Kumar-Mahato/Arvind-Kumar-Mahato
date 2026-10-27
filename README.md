@@ -1,4 +1,7 @@
-<img src ="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"/>
+<img src ="
+  [https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067](https://imgs.search.brave.com/lZiCGQ0QTxmOs-8f14qCCrDLCiVJ0hfBv7SC_auPo6A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ByZW1pdW0tcGhv/dG8vZGF0YS1hbmFs/eXNpcy1jb25jZXB0/LXRleHQtbWVjaGFu/aXNtLWdlYXJzLXRl/Y2hub2xvZ3ktYmFj/a2dyb3VuZF82OTg5/NTMtMTE2ODAuanBn/P3NlbXQ9YWlzX2h5/YnJpZCZ3PTc0MCZx/PTgw)
+  "/>
+
 <h1 align="center">Hi 👋, I'm Arvind Kumar Mahato</h1>
 <h3 align="center">I am a practical and detail-oriented Data Analyst with a keen interest in solving unique problems with the help of Excel, SQL, Power BI and Python. I am a self-motivated team man who is ardent in solving diverse problems across any given environment.</h3>
 
